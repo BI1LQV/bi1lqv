@@ -1,4 +1,6 @@
-### Hi there 👋
+This is BI1LQV.
+
+![BI1LQV's GitHub stats](https://github-readme-stats.vercel.app/api?username=bi1lqv&show_icons=true&count_private=true)
 
 <!--START_SECTION:waka-->
 
