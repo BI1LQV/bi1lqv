@@ -5,11 +5,12 @@ What am I doing recently?
 <!--START_SECTION:waka-->
 
 ```text
-C             9 hrs 47 mins   ███████████████▒░░░░░░░░░   61.15 %
-Python        5 hrs 26 mins   ████████▓░░░░░░░░░░░░░░░░   34.03 %
-Objective-C   38 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 %
-JavaScript    3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
-Other         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
+Python        5 hrs 26 mins   █████████████░░░░░░░░░░░░   52.44 %
+C             4 hrs 13 mins   ██████████░░░░░░░░░░░░░░░   40.60 %
+Objective-C   38 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.11 %
+JavaScript    3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
+Markdown      1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
+JSON          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 ```
 
 <!--END_SECTION:waka-->
