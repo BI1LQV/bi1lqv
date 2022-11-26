@@ -5,7 +5,7 @@ What am I doing recently?
 <!--START_SECTION:waka-->
 
 ```text
-Other   4 mins          ████████████████████████░   95.46 %
+Other        24 mins         █████████████████████░░░░   83.79 %
 ```
 
 <!--END_SECTION:waka-->
