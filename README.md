@@ -5,12 +5,12 @@ What am I doing recently?
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript     1 hr 22 mins    ██████████▓░░░░░░░░░░░░░░   42.90 %
-Markdown       1 hr 10 mins    █████████▒░░░░░░░░░░░░░░░   36.71 %
-JavaScript     27 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.06 %
-Vue.js         6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.30 %
-HTML           5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.93 %
-OpenEdge ABL   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+TeX            2 hrs 18 mins   ████████████░░░░░░░░░░░░░   47.98 %
+Markdown       1 hr 10 mins    ██████░░░░░░░░░░░░░░░░░░░   24.39 %
+TypeScript     42 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.77 %
+JavaScript     26 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.01 %
+OpenEdge ABL   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 %
+HTML           3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
 ```
 
 <!--END_SECTION:waka-->
