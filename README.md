@@ -5,10 +5,11 @@ What am I doing recently?
 <!--START_SECTION:waka-->
 
 ```text
-Markdown       2 hrs 21 mins   ████████████████▒░░░░░░░░   65.51 %
-HTML           24 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.22 %
-TypeScript     19 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.84 %
-Other          9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 %
+Markdown       2 hrs 19 mins   ██████████████░░░░░░░░░░░   55.87 %
+TypeScript     45 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.32 %
+HTML           24 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.70 %
+Python         15 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.17 %
+Other          9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 %
 ```
 
 <!--END_SECTION:waka-->
