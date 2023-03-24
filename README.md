@@ -5,12 +5,12 @@ What am I doing recently?
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript                 10 hrs 23 mins  ███████████████▒░░░░░░░░░   61.37 %
-JavaScript                 1 hr 28 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.72 %
-Python                     1 hr 24 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 %
-Markdown                   1 hr 3 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.26 %
-Vue.js                     50 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.96 %
-LESS                       35 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 %
+TypeScript                 10 hrs 51 mins  █████████████████░░░░░░░░   67.46 %
+JavaScript                 1 hr 23 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 %
+Markdown                   1 hr 3 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.59 %
+LESS                       1 hr 1 min      █▓░░░░░░░░░░░░░░░░░░░░░░░   06.37 %
+Python                     28 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.00 %
+Nginx configuration file   19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.03 %
 ```
 
 <!--END_SECTION:waka-->
