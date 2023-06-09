@@ -5,11 +5,11 @@ What am I doing recently?
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript                 1 hr 28 mins    ██████████░░░░░░░░░░░░░░░   40.46 %
-Other                      40 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.49 %
-Vue.js                     21 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.00 %
-Python                     19 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.96 %
-Nginx configuration file   19 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.78 %
+TypeScript                 1 hr 27 mins    ██████████▓░░░░░░░░░░░░░░   42.82 %
+Other                      38 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.79 %
+Vue.js                     21 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.68 %
+Nginx configuration file   19 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.38 %
+JSON                       19 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.36 %
 ```
 
 <!--END_SECTION:waka-->
