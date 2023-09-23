@@ -5,11 +5,11 @@ What am I doing recently?
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript     1 hr 54 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.92 %
-JSON           1 hr 38 mins    █████▓░░░░░░░░░░░░░░░░░░░   23.19 %
-Haskell        1 hr 10 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.51 %
-OpenEdge ABL   46 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.90 %
-Erlang         41 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.78 %
+JSON           1 hr 38 mins    ███████░░░░░░░░░░░░░░░░░░   27.99 %
+Erlang         1 hr 15 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.37 %
+TypeScript     47 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.40 %
+OpenEdge ABL   46 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.19 %
+JavaScript     42 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.15 %
 ```
 
 <!--END_SECTION:waka-->
