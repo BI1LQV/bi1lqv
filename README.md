@@ -5,11 +5,11 @@ What am I doing recently?
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript        17 hrs 45 mins  ██████████████████▓░░░░░░   75.03 %
-JavaScript        3 hrs 17 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.92 %
-HTML              48 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 %
-Less              41 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.92 %
-JSON              24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.75 %
+TypeScript        21 hrs 26 mins  ████████████████████▒░░░░   81.41 %
+JavaScript        3 hrs 2 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.54 %
+HTML              47 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.03 %
+JSON              24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.56 %
+TSConfig          20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
 ```
 
 <!--END_SECTION:waka-->
