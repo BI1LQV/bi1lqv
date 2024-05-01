@@ -5,11 +5,9 @@ What am I doing recently?
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   4 hrs 43 mins   █████████████████████░░░░   84.35 %
-JavaScript   37 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.02 %
-Other        8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.44 %
-Erlang       6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.87 %
-Smarty       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
+TypeScript   2 hrs 41 mins   █████████████████████▓░░░   87.31 %
+JavaScript   15 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 %
+Other        8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 %
 ```
 
 <!--END_SECTION:waka-->
