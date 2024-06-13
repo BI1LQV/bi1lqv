@@ -5,7 +5,11 @@ What am I doing recently?
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+TypeScript   46 mins         ████████████████▒░░░░░░░░   64.74 %
+JSON         18 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.44 %
+JavaScript   6 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.77 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
