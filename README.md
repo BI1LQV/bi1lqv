@@ -5,9 +5,8 @@ What am I doing recently?
 <!--START_SECTION:waka-->
 
 ```txt
-SQL     17 mins         ███████████████████████░░   91.66 %
-CSV     1 min           ██░░░░░░░░░░░░░░░░░░░░░░░   08.34 %
-Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Other   2 mins          ██████████████░░░░░░░░░░░   55.66 %
+CSV     1 min           ███████████░░░░░░░░░░░░░░   44.34 %
 ```
 
 <!--END_SECTION:waka-->
