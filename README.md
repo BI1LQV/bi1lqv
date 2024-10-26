@@ -5,8 +5,8 @@ What am I doing recently?
 <!--START_SECTION:waka-->
 
 ```txt
-Other   2 mins          ██████████████░░░░░░░░░░░   55.66 %
-CSV     1 min           ███████████░░░░░░░░░░░░░░   44.34 %
+Other   10 mins         █████████████████████▓░░░   87.14 %
+CSV     1 min           ███▒░░░░░░░░░░░░░░░░░░░░░   12.86 %
 ```
 
 <!--END_SECTION:waka-->
