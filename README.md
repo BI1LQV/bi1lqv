@@ -5,7 +5,10 @@ What am I doing recently?
 <!--START_SECTION:waka-->
 
 ```txt
-Other   2 mins          █████████████████████████   100.00 %
+Python   1 hr 34 mins    ██████████████████░░░░░░░   71.84 %
+R        34 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.78 %
+Other    2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.21 %
+CSV      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
 ```
 
 <!--END_SECTION:waka-->
