@@ -5,7 +5,9 @@ What am I doing recently?
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Python   18 mins         ████████████████████████▒   97.05 %
+JSON     0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.22 %
+Other    0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
 ```
 
 <!--END_SECTION:waka-->
