@@ -5,10 +5,11 @@ What am I doing recently?
 <!--START_SECTION:waka-->
 
 ```txt
-RMarkdown   4 hrs 28 mins   █████████████████▒░░░░░░░   68.70 %
-Python      1 hr 7 mins     ████▒░░░░░░░░░░░░░░░░░░░░   17.16 %
-Markdown    45 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.53 %
-Other       10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.62 %
+Python       5 hrs 31 mins   ████████████░░░░░░░░░░░░░   47.80 %
+RMarkdown    4 hrs 28 mins   █████████▓░░░░░░░░░░░░░░░   38.65 %
+Markdown     45 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.48 %
+Other        40 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.81 %
+CSV          6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 %
 ```
 
 <!--END_SECTION:waka-->
