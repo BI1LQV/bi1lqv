@@ -5,7 +5,9 @@ What am I doing recently?
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   26 mins         █████████████████████████   100.00 %
+Python       1 hr 6 mins     ██████████████▓░░░░░░░░░░   58.29 %
+Markdown     47 mins         ██████████▒░░░░░░░░░░░░░░   41.36 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
 ```
 
 <!--END_SECTION:waka-->
