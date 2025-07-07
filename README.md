@@ -5,7 +5,7 @@ What am I doing recently?
 <!--START_SECTION:waka-->
 
 ```txt
-CSV   14 mins         █████████████████████████   100.00 %
+CSV   7 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
