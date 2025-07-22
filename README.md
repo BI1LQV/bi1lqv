@@ -5,8 +5,7 @@ What am I doing recently?
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   3 mins          ████████████████████░░░░░   80.21 %
-JSON       0 secs          █████░░░░░░░░░░░░░░░░░░░░   19.79 %
+JSON   0 secs          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
