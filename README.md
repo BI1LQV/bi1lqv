@@ -5,9 +5,9 @@ What am I doing recently?
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown     26 mins         ███████████████████▒░░░░░   77.01 %
-TypeScript   3 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.53 %
-Other        3 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.47 %
+Markdown     26 mins         ████████████████████▓░░░░   82.02 %
+TypeScript   3 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.28 %
+Other        1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.70 %
 ```
 
 <!--END_SECTION:waka-->
