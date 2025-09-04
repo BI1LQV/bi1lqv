@@ -5,8 +5,7 @@ What am I doing recently?
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   26 mins         ████████████████████████▓   98.97 %
-Other        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
+Other   0 secs          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
