@@ -5,7 +5,8 @@ What am I doing recently?
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+YAML   57 mins         █████████████████░░░░░░░░   68.20 %
+Bash   26 mins         ████████░░░░░░░░░░░░░░░░░   31.80 %
 ```
 
 <!--END_SECTION:waka-->
