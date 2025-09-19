@@ -5,9 +5,8 @@ What am I doing recently?
 <!--START_SECTION:waka-->
 
 ```txt
-YAML    57 mins         ██████████████▓░░░░░░░░░░   58.79 %
-Bash    26 mins         ██████▓░░░░░░░░░░░░░░░░░░   27.32 %
-Other   13 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.89 %
+Other   13 mins         ████████████████████████▓   98.70 %
+YAML    0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.30 %
 ```
 
 <!--END_SECTION:waka-->
